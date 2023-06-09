@@ -1,0 +1,15 @@
+7:echo
+13:chargen
+25:time
+35:domain
+43:bootps (DHCP)
+44:bootpc (DHCP)
+45:tftp
+89:netbios-ns
+8a:netbios-dgm
+a1:snmp
+a2:snmp-trap
+1f4:isakmp
+202:syslog
+208:rip
+829a:traceroute

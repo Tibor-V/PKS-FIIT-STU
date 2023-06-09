@@ -1,0 +1,1 @@
+do tohto adresara uklada SERVER subory ked ich prijme 

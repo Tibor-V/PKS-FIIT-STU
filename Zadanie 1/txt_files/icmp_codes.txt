@@ -1,0 +1,16 @@
+00:Echo Reply 
+03:Destination Unreachable
+04:Source Quench
+05:Redirect
+08:Echo
+09:Router Advertisiment
+0A:Router Selection
+0B:Time Exceeded
+0C:Parameter Problem
+0D:Timestamp
+0E:timestamp Reply
+0F:Information Request
+10:Information Reply
+11:address Mask Request
+12:Address Mask Reply
+1E:Traceroute

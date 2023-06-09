@@ -1,0 +1,13 @@
+00:Null LSAP
+02:LLC Sublayer Individual
+03:LLC Sublayer Group
+06:IP (DoD Internet Protocol)
+0e:PROWAY (IEC 955)
+42:802.1 BPDU
+4e:MMS EIA-RS 511
+5e:ISI IP
+7e:X.25 PLP (ISO 8208)
+8e:ProWay-LAN (IEC 955) Active Station List Maintenance
+e0:IPX (Novell NetWare)
+f4:LAN Management
+fe:OSI protocols ISO CLNS IS 8473
